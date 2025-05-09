@@ -43,4 +43,11 @@
 4. **Admin Review**
    - Admin can view flagged requests and override the result with feedback.
 
+---
 
+## 📸 Screenshots
+
+![Screenshot 1](screenshots/validify-1.jpg)
+![Screenshot 2](screenshots/validify-2.jpg)
+![Screenshot 3](screenshots/validify-3.jpg)
+![Screenshot 4](screenshots/validify-4.jpg)
