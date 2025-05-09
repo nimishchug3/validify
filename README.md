@@ -34,7 +34,6 @@
    - OCR (Tesseract) extracts document text.
    - Image pre-processing via OpenCV improves accuracy.
    - NLP tools compare user-entered data with extracted content.
-   - Forgery detection model (YOLO) scans for image tampering.
 
 3. **Result Handling**
    - If data matches and document is valid → marked “Verified”.
