@@ -1,0 +1,65 @@
+# === PYTHON & DJANGO ===
+*.py[cod]
+__pycache__/
+*.so
+*.log
+
+# Django migrations
+*/migrations/
+db.sqlite3
+db.sqlite3-journal
+
+# Python virtualenv
+env/
+venv/
+ENV/
+.venv/
+
+# IDEs & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local settings
+*.local
+*.env
+.env.*
+.env
+
+# Django secret keys or local configs
+config/settings/local.py
+
+# === NODE / REACT FRONTEND ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Production build
+build/
+dist/
+
+# React config and cache
+.cache/
+.next/
+out/
+coverage/
+
+# === SYSTEM FILES ===
+.DS_Store
+Thumbs.db
+
+# === GIT ===
+.git/
+*.orig
+
+# === TESTS ===
+htmlcov/
+coverage.xml
+*.cover
+.pytest_cache/
+
+
+# Ignore frontend config file
+frontend/src/config.js
